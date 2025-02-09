@@ -1,0 +1,25 @@
+{
+  "name": "projeto-nova-biblioteca",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thallystorres/NEW-LIB-NODE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thallystorres/NEW-LIB-NODE/issues"
+  },
+  "homepage": "https://github.com/thallystorres/NEW-LIB-NODE#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0"
+  }
+}
